@@ -23,3 +23,11 @@ body,
   width: 700px;
   min-width: 90%;
 }
+
+.timer {
+  position: absolute;
+  top: 3rem;
+  font-size: 3rem;
+  color: #f0db4f;
+  font-weight: bold;
+}
